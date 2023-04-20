@@ -12,7 +12,7 @@ Asynchronous API calls to disease.sh are utilized to gather the data, which deli
 The aim of this project is to build a COVID Tracker that displays real-time data on the number of confirmed cases, deaths, and recoveries worldwide. The project will provide an interactive dashboard with visualizations of the data such as charts and maps, to help users understand the scope and severity of the outbreak.
 
 ## Live Demo
-
+https://covid19-live-tracker-2023.netlify.app
 
 ## Tech Stack
 
@@ -31,3 +31,4 @@ https://disease.sh/v3/covid-19/countries
 https://disease.sh/v3/covid-19/all
 ## Snapshots
 
+![image](https://user-images.githubusercontent.com/80049664/233382179-504c055d-8e85-49aa-bacc-1dbb5b556cd8.png)
