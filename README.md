@@ -14,14 +14,13 @@ The aim of this project is to build a COVID Tracker that displays real-time data
 ## Live Demo
 https://covid19-live-tracker-2023.netlify.app
 
-## Tech Stack
+## Tech Stacks
 
-• HTML
-
-• CSS           • Google Material UI
-
-• JavaScript    • ChartJS
-
+<a target="_blank"><img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"  alt="Google Material UI"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  alt="javascript"/></a>
+<a target="_blank"><img  src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"  alt="Chart.js"/></a>
 
 ## API Used
 Provided by Disease.sh 
